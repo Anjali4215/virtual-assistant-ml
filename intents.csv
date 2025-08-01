@@ -1,0 +1,13 @@
+text,intent
+hello,greet
+hi,greet
+what is the time,time
+tell me the time,time
+what's the date,date
+open google,open_google
+open youtube,open_youtube
+what is the weather in delhi,weather
+how's the weather in chennai,weather
+send an email,send_email
+exit,exit
+goodbye,exit

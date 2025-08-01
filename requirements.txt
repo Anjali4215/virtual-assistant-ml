@@ -1,0 +1,5 @@
+speechrecognition
+pyttsx3
+scikit-learn
+requests
+pyaudio
